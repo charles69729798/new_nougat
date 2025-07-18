@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+python_embeddable/
+portable_python/
+
+# Models (large files)
+models/
+models_meta_backup/
+nougat-latex-ocr/models/
+pdf-extract-kit-models/
+*.bin
+*.pt
+*.safetensors
+
+# Output
+output/
+Nougat_result/
+src/output/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/

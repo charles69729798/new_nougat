@@ -1,0 +1,23 @@
+# Core dependencies
+numpy==1.24.3
+torch>=2.0.0
+torchvision>=0.15.0
+transformers==4.53.2
+ultralytics>=8.0.0
+PyMuPDF>=1.23.0
+beautifulsoup4>=4.12.0
+loguru>=0.7.0
+pillow>=10.0.0
+pywin32>=306
+huggingface-hub
+safetensors
+requests
+tqdm
+pyyaml
+filelock
+regex
+typing-extensions
+packaging
+
+# GUI
+tkinterdnd2
